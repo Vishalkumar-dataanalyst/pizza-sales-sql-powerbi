@@ -295,9 +295,6 @@ This project strengthened my practical understanding of:
 The project demonstrates the complete process of transforming raw transactional data into an interactive analytical solution.
 
 ---
-## 📸 Dashboard Preview
-
-
 
 # 👨‍💻 Author
 
@@ -310,5 +307,10 @@ The project demonstrates the complete process of transforming raw transactional 
 `SQL` `Power BI` `Excel` `Power Query` `DAX` `Python` `Data Analytics`
 
 ---
+
+## Dashboard Preview
+<img src = "https://github.com/Vishalkumar-dataanalyst/Zomato-food-delivery-sales-dashboard-powerbi/blob/9d5f56d5ce0de2c68c95415745a5822a1f409884/Dashboard%20Image.png" alt="Image Description" width="600">
+
+
 
 ⭐ If you find this project useful, feel free to star the repository.
