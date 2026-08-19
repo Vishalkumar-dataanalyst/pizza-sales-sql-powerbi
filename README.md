@@ -295,6 +295,9 @@ This project strengthened my practical understanding of:
 The project demonstrates the complete process of transforming raw transactional data into an interactive analytical solution.
 
 ---
+## 📸 Dashboard Preview
+
+
 
 # 👨‍💻 Author
 
