@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis | SQL & Power BI
+# 🍕 Pizza Sales Analysis Dashboard| SQL & Power BI
 
 ## 📌 Project Overview
 
@@ -309,7 +309,7 @@ The project demonstrates the complete process of transforming raw transactional 
 ---
 
 ## Dashboard Preview
-<img src = "https://github.com/Vishalkumar-dataanalyst/Zomato-food-delivery-sales-dashboard-powerbi/blob/9d5f56d5ce0de2c68c95415745a5822a1f409884/Dashboard%20Image.png" alt="Image Description" width="600">
+<img src = "https://github.com/Vishalkumar-dataanalyst/pizza-sales-sql-powerbi/blob/ca80c6b0644c1990640ac4b9f15e33079c55b161/Pizza%20sales%20Dashboard.png" alt="Image Description" width="600">
 
 
 
